@@ -244,12 +244,16 @@ Things to Do
 - Washburn BS Math
 - Emporia State Univ MS Math
 - GATech OMSCS
+- WorldQuant University MScFE
 - freeCodeCamp Scientific Computing with Python
 - freecodecamp data science with Python
 - freeCodeCamp machine learning with Python
 - freeCodeCamp complete everything
 - teach yourself cs curriculum
 - 100% treehouse
+- khan academy physics
+- 100% khan academy
+
 
 ## Year
 
