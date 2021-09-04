@@ -17,6 +17,10 @@ Things to Do
 
 ## Month
 
+- Free Code Camp stats
+- Free Code Camp Calc I
+- Free Code Camp Calc II
+- Free Code Camp Linear Alg
 
 
 ## Week
