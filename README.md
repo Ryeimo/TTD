@@ -10,13 +10,14 @@ Things to Do
 
 ## Quarter
 
+- Khan MV Calc
+- Khan Integral Calc
+- Khan Deriv Calc
 - Khan Stats
 
 ## Month
 
-- Khan MV Calc
-- Khan Integral Calc
-- Khan Deriv Calc
+
 
 ## Week
 
