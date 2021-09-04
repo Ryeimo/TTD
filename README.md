@@ -239,6 +239,18 @@ Things to Do
 - 
 
 
+## Decade
+- Washburn BS CS
+- Washburn BS Math
+- Emporia State Univ MS Math
+- GATech OMSCS
+- freeCodeCamp Scientific Computing with Python
+- freecodecamp data science with Python
+- freeCodeCamp machine learning with Python
+- freeCodeCamp complete everything
+- teach yourself cs curriculum
+- 
+
 ## Year
 
 - World Quant University Entrance Exam
