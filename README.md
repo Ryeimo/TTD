@@ -294,6 +294,9 @@ Things to Do
 - https://www.complexityexplorer.org/courses/122-computation-in-complex-systems
 - https://www.complexityexplorer.org/courses/115-nonlinear-dynamics-mathematical-and-computational-approaches
 - https://www.complexityexplorer.org/courses/121-introduction-to-agent-based-modeling
+- https://www.engineer4free.com/calculus.html
+- https://www.engineer4free.com/differential-equations.html
+- https://www.engineer4free.com/project-management.html
 
 ## Swayam
 
