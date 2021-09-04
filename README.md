@@ -117,6 +117,27 @@ Things to Do
 - https://www.perlego.com/book/852205/recent-advances-in-financial-engineering-2014-proceedings-of-the-tmu-finance-workshop-2014-proceedings-of-the-tmu-finance-workshop-2014-pdf?queryID=a98e55058f42efd54e44beb41c2434bf&searchIndexType=books
 - https://www.perlego.com/book/847694/finance-at-fields-pdf?queryID=a98e55058f42efd54e44beb41c2434bf&searchIndexType=books
 - https://www.perlego.com/book/848650/probability-finance-and-insurance-proceedings-of-a-workshop-pdf?queryID=a98e55058f42efd54e44beb41c2434bf&searchIndexType=books
+- https://www.perlego.com/book/390634/python-for-finance-pdf?queryID=3594f199c4aaf1bc0e83938dc9cd3c97&searchIndexType=books
+- https://www.perlego.com/book/2759841/exotic-option-pricing-and-advanced-lvy-models-pdf?queryID=3594f199c4aaf1bc0e83938dc9cd3c97&searchIndexType=books
+- https://www.perlego.com/book/990925/elementary-financial-derivatives-a-guide-to-trading-and-valuation-with-applications-pdf?queryID=3594f199c4aaf1bc0e83938dc9cd3c97&searchIndexType=books
+- https://www.perlego.com/book/994133/applied-probabilistic-calculus-for-financial-engineering-an-introduction-using-r-pdf?queryID=3594f199c4aaf1bc0e83938dc9cd3c97&searchIndexType=books
+- https://www.perlego.com/book/1000320/multivariate-time-series-analysis-with-r-and-financial-applications-pdf?queryID=3594f199c4aaf1bc0e83938dc9cd3c97&searchIndexType=books
+- https://www.perlego.com/book/854461/market-microstructure-in-practice-pdf?queryID=3594f199c4aaf1bc0e83938dc9cd3c97&searchIndexType=books
+- https://www.perlego.com/book/999409/financial-signal-processing-and-machine-learning-pdf?queryID=3594f199c4aaf1bc0e83938dc9cd3c97&searchIndexType=books
+- https://www.perlego.com/book/1010289/business-cycles-and-equilibrium-pdf?queryID=3594f199c4aaf1bc0e83938dc9cd3c97&searchIndexType=books
+- https://www.perlego.com/book/994943/linear-models-and-timeseries-analysis-regression-anova-arma-and-garch-pdf?queryID=3594f199c4aaf1bc0e83938dc9cd3c97&searchIndexType=books
+- https://www.perlego.com/book/775126/stalking-the-black-swan-research-and-decision-making-in-a-world-of-extreme-volatility-pdf?queryID=3594f199c4aaf1bc0e83938dc9cd3c97&searchIndexType=books
+- https://www.perlego.com/book/853190/deep-dive-into-financial-models-modeling-risk-and-uncertainty-pdf?queryID=3594f199c4aaf1bc0e83938dc9cd3c97&searchIndexType=books
+- https://www.perlego.com/book/851852/model-risk-in-financial-markets-from-financial-engineering-to-risk-management-from-financial-engineering-to-risk-management-pdf?queryID=3594f199c4aaf1bc0e83938dc9cd3c97&searchIndexType=books
+- https://www.perlego.com/book/851619/timediscrete-method-of-lines-for-options-and-bonds-the-a-pde-approach-a-pde-approach-pdf?queryID=3594f199c4aaf1bc0e83938dc9cd3c97&searchIndexType=books
+- https://www.perlego.com/book/2338027/innovations-in-derivatives-markets-fixed-income-modeling-valuation-adjustments-risk-management-and-regulation-volume-1650-pdf?queryID=3594f199c4aaf1bc0e83938dc9cd3c97&searchIndexType=books
+- https://www.perlego.com/book/1693646/probability-and-statistics-by-example-volume-2-markov-chains-a-primer-in-random-processes-and-their-applications-pdf?queryID=3594f199c4aaf1bc0e83938dc9cd3c97&searchIndexType=books
+- https://www.perlego.com/book/962825/mastering-python-for-finance-implement-advanced-stateoftheart-financial-statistical-applications-using-python-2nd-edition-pdf?queryID=3594f199c4aaf1bc0e83938dc9cd3c97&searchIndexType=books
+- https://www.perlego.com/book/1002071/a-workout-in-computational-finance-pdf?queryID=3594f199c4aaf1bc0e83938dc9cd3c97&searchIndexType=books
+- https://www.perlego.com/book/1007270/equity-valuation-risk-and-investment-a-practitioners-roadmap-pdf?queryID=3594f199c4aaf1bc0e83938dc9cd3c97&searchIndexType=books
+- https://www.perlego.com/book/1693756/finance-a-quantitative-introduction-pdf?queryID=3594f199c4aaf1bc0e83938dc9cd3c97&searchIndexType=books
+- https://www.perlego.com/book/997219/advanced-equity-derivatives-volatility-and-correlation-pdf?queryID=3594f199c4aaf1bc0e83938dc9cd3c97&searchIndexType=books
+- https://www.perlego.com/book/2193564/computational-methods-in-finance-pdf?queryID=3594f199c4aaf1bc0e83938dc9cd3c97&searchIndexType=books
 - 
 
 
