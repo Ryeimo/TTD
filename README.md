@@ -265,7 +265,33 @@ Things to Do
 ## Five Year
 
 - First Semester in Numerical Analysis with Python
-- 
+- https://online.stanford.edu/courses/mse311-optimization
+- https://online.stanford.edu/courses/xeduc215n-mathematical-mindsets
+- https://online.stanford.edu/courses/cme302-numerical-linear-algebra
+- https://online.stanford.edu/courses/cs205l-continuous-mathematical-methods-emphasis-machine-learning
+- https://online.stanford.edu/courses/xeduc315n-21st-century-teaching-learning-data-science
+- https://online.stanford.edu/courses/stats216v-introduction-statistical-learning
+- https://online.stanford.edu/courses/mse201-dynamic-systems
+- https://online.stanford.edu/courses/ee103-introduction-matrix-methods
+- https://online.stanford.edu/courses/engr108-introduction-matrix-methods
+- https://online.stanford.edu/courses/mse232-introduction-game-theory
+- https://online.stanford.edu/courses/cs109-introduction-probability-computer-scientists
+- https://online.stanford.edu/courses/hstar-y0001-introduction-mathematical-thinking
+- https://online.stanford.edu/courses/mse241-economic-analysis
+- https://online.stanford.edu/courses/me300a-linear-algebra-application-engineering-computations
+- https://online.stanford.edu/courses/ee261-fourier-transform-and-its-applications
+- https://online.stanford.edu/courses/mse226-fundamentals-data-science-prediction-inference-causality
+- https://online.stanford.edu/courses/ee263-introduction-linear-dynamical-systems
+- https://online.stanford.edu/courses/stats270-course-bayesian-statistics
+- https://online.stanford.edu/courses/stats202-data-mining-and-analysis
+- https://online.stanford.edu/courses/mse211x-introduction-optimization-accelerated
+- https://online.stanford.edu/courses/mse245a-investment-science
+- https://online.stanford.edu/courses/mse223-simulation
+- https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning
+- https://online.stanford.edu/courses/mse250b-project-course-engineering-risk-analysis
+- https://online.stanford.edu/courses/stats116-theory-probability
+- https://online.stanford.edu/courses/soe-ycs0004-game-theory-ii-advanced-applications
+- https://online.stanford.edu/courses/soe-ycs0001-algorithms-design-and-analysis-part-2
 
 ## Saylor
 
@@ -367,7 +393,11 @@ Things to Do
 - http://myeducationpath.com/courses/23445/statistics-unlocking-the-world-of-data.htm
 - http://myeducationpath.com/courses/16121/what-is-capitalism.htm
 - https://learn.saylor.org/course/view.php?id=28
+- https://online.stanford.edu/courses/math220-partial-differential-equations-applied-mathematics
+
 - 
+
+
 
 ## Swayam
 
