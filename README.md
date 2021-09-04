@@ -310,8 +310,18 @@ Things to Do
 - https://www.classcentral.com/course/youtube-noc-jan-2019-transform-calculus-and-its-applications-in-differential-equation-47356/classroom
 - https://www.classcentral.com/course/youtube-mathematics-calculus-of-variations-and-integral-equations-47612/classroom
 - https://onlinecourses.nptel.ac.in/noc21_ma12/preview
-- 
-- 
+- https://onlinecourses.swayam2.ac.in/cec20_ma22/preview
+- https://onlinecourses.swayam2.ac.in/cec21_ma12/preview
+- https://onlinecourses.nptel.ac.in/noc21_ma58/preview
+- https://onlinecourses.nptel.ac.in/noc19_ma27/preview
+- Finite Volume Method (FVM)
+- Finite Volume Method (FVM) II
+- https://onlinecourses.nptel.ac.in/noc21_me68/preview
+- https://onlinecourses.nptel.ac.in/noc21_ma07/preview
+- https://onlinecourses.nptel.ac.in/noc21_ma17/preview
+- https://onlinecourses.nptel.ac.in/noc21_ma25/preview
+- https://onlinecourses.nptel.ac.in/noc21_ae02/preview
+- https://onlinecourses.nptel.ac.in/noc21_ge10/preview
 
 ## Quarter
 
