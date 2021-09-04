@@ -343,7 +343,7 @@ Things to Do
 - https://www.complexityexplorer.org/courses/56-vector-and-matrix-algebra
 - https://www.classcentral.com/course/mit-opencourseware-differential-equations-fall-2011-40963/classroom
 - https://www.mathdoubts.com/differential-equations/
-- 
+- https://tutorial.math.lamar.edu
 
 
 
