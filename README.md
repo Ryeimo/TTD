@@ -249,7 +249,7 @@ Things to Do
 - freeCodeCamp machine learning with Python
 - freeCodeCamp complete everything
 - teach yourself cs curriculum
-- 
+- 100% treehouse
 
 ## Year
 
