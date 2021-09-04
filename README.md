@@ -16,3 +16,6 @@ Things to Do
 - Kk Series https://www.youtube.com/watch?v=n_nNLLjOQs0&list=PLJ8OrXpbC-BPaXEPecIAS_ddViV2_gcYL
 - Re-Watch ODE https://www.youtube.com/watch?v=hsTfC1Wmxqc&list=PLJ8OrXpbC-BO2zEW58TpHHakh5nodn3-i
 - PDE Numerical https://m.youtube.com/watch?v=YotrBNLFen0&list=PLfkJVfYAMQ1q-Gfg72v65Au0ErUxrmlZT
+- commutant mv calc https://www.youtube.com/playlist?list=PLwIFHT1FWIULQ8QQjFA13WUzQPR31Hajs
+- commutant ode https://www.youtube.com/playlist?list=PLwIFHT1FWIUJYuP5y6YEM4WWrY4kEmIuS
+
