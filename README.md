@@ -253,7 +253,8 @@ Things to Do
 - 100% treehouse
 - khan academy physics
 - 100% khan academy
-
+- complexity explorer 100%
+- 
 
 ## Year
 
@@ -285,6 +286,31 @@ Things to Do
 - https://aimath.org/textbooks/approved-textbooks/keller-trotter/
 - https://aimath.org/textbooks/approved-textbooks/bogart/
 - https://aimath.org/textbooks/approved-textbooks/bender-williamson/
+- https://www.complexityexplorer.org/courses/81-fundamentals-of-machine-learning
+- https://www.complexityexplorer.org/courses/69-game-theory-i-static-games
+- https://www.complexityexplorer.org/courses/78-game-theory-ii-dynamic-games
+- https://www.complexityexplorer.org/courses/58-introduction-to-computation-theory
+- https://www.complexityexplorer.org/courses/120-introduction-to-dynamical-systems-and-chaos
+- https://www.complexityexplorer.org/courses/122-computation-in-complex-systems
+- https://www.complexityexplorer.org/courses/115-nonlinear-dynamics-mathematical-and-computational-approaches
+- https://www.complexityexplorer.org/courses/121-introduction-to-agent-based-modeling
+
+## Swayam
+
+- https://www.classcentral.com/course/edx-differential-equations-fourier-series-and-partial-differential-equations-11763
+- https://onlinecourses.swayam2.ac.in/cec21_ma05/preview
+- https://onlinecourses.nptel.ac.in/noc21_ma51/preview
+- https://onlinecourses.nptel.ac.in/noc21_ma47/preview
+- https://onlinecourses.nptel.ac.in/noc21_ma67/preview
+- https://onlinecourses.nptel.ac.in/noc21_ma30/preview
+- https://onlinecourses.nptel.ac.in/noc21_ma18/preview
+- https://onlinecourses.nptel.ac.in/noc21_ma33/preview
+- https://onlinecourses.nptel.ac.in/noc21_ma09/preview
+- https://www.classcentral.com/course/youtube-differential-calculus-in-several-variables-47886/classroom
+- https://www.classcentral.com/course/youtube-noc-jan-2019-transform-calculus-and-its-applications-in-differential-equation-47356/classroom
+- https://www.classcentral.com/course/youtube-mathematics-calculus-of-variations-and-integral-equations-47612/classroom
+- https://onlinecourses.nptel.ac.in/noc21_ma12/preview
+- 
 - 
 
 ## Quarter
@@ -294,6 +320,17 @@ Things to Do
 - Khan Deriv Calc
 - Khan Stats
 - https://calculus.flippedmath.com/version-1.html
+- https://www.youtube.com/watch?v=tGVnBAHLApA&list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7
+- https://www.youtube.com/watch?v=xf-3ATzFyKA&list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_
+- https://www.youtube.com/watch?v=9FtHB7V14Fo&list=PL5102DFDC6790F3D0
+- https://www.complexityexplorer.org/courses/31-introduction-to-differential-equations
+- https://www.complexityexplorer.org/courses/32-ordinary-differential-equations
+- https://www.complexityexplorer.org/courses/46-random-walks
+- https://www.complexityexplorer.org/courses/56-vector-and-matrix-algebra
+- https://www.classcentral.com/course/mit-opencourseware-differential-equations-fall-2011-40963/classroom
+- 
+
+
 
 ## Month
 
