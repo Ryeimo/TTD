@@ -255,7 +255,7 @@ Things to Do
 - 100% khan academy
 - complexity explorer 100%
 - 100% saylor math courses
-- 
+- 100% project euler
 
 ## Year
 
