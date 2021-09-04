@@ -276,6 +276,12 @@ Things to Do
 - https://legacy.saylor.org/ma251/Intro/
 - https://legacy.saylor.org/ma252/Intro/
 - https://legacy.saylor.org/ma304/Intro/
+- https://legacy.saylor.org/me205/Intro/
+- https://legacy.saylor.org/phil102/Intro/
+- https://legacy.saylor.org/econ200/Intro/
+- https://legacy.saylor.org/econ101/Intro/
+- https://legacy.saylor.org/econ102/Intro/
+
 
 ## Year
 
