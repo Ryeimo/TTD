@@ -257,6 +257,26 @@ Things to Do
 - 100% saylor math courses
 - 100% project euler
 
+## Saylor
+
+- https://legacy.saylor.org/k12math014/Intro/
+- https://legacy.saylor.org/ma103/Intro/
+- https://legacy.saylor.org/ma201/Intro/
+- https://legacy.saylor.org/ma211/Intro/
+- https://legacy.saylor.org/ma212/Intro/
+- https://legacy.saylor.org/ma213/Intro/
+- https://legacy.saylor.org/ma221/Intro/
+- https://legacy.saylor.org/ma222/Intro/
+- https://legacy.saylor.org/ma231/Intro/
+- https://legacy.saylor.org/ma232/Intro/
+- https://legacy.saylor.org/ma233/Intro/
+- https://legacy.saylor.org/ma241/Intro/
+- https://legacy.saylor.org/ma242/Intro/
+- https://legacy.saylor.org/ma243/Intro/
+- https://legacy.saylor.org/ma251/Intro/
+- https://legacy.saylor.org/ma252/Intro/
+- https://legacy.saylor.org/ma304/Intro/
+
 ## Year
 
 - World Quant University Entrance Exam
