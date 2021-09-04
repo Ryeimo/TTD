@@ -315,6 +315,22 @@ Things to Do
 - http://myeducationpath.com/courses/3341/analytics-of-finance.htm
 - http://myeducationpath.com/courses/2782/principles-of-optimal-control.htm
 - http://myeducationpath.com/courses/3059/algebraic-techniques-and-semidefinite-optimization.htm
+- http://myeducationpath.com/courses/3191/combinatorial-optimization.htm
+- http://myeducationpath.com/courses/4608/discrete-stochastic-processes.htm
+- http://myeducationpath.com/courses/10845/financial-maths.htm
+- http://myeducationpath.com/courses/147/introduction-to-computational-finance-and-financial-econometrics.htm
+- http://myeducationpath.com/courses/9131/mathematical-methods-for-quantitative-finance.htm
+- http://myeducationpath.com/courses/11605/monte-carlo-methods-in-finance.htm
+- http://myeducationpath.com/courses/6697/cs105-ma211-linear-algebra.htm
+- http://myeducationpath.com/courses/4527/intermediate-macroeconomic-theory-spring-2004.htm
+- http://myeducationpath.com/courses/22009/introduction-to-probability-the-science-of-uncertainty.htm
+- http://myeducationpath.com/courses/24647/introduction-to-probability-part-1-the-fundamentals.htm
+- http://myeducationpath.com/courses/24586/learning-from-data-introductory-machine-learning.htm
+- http://myeducationpath.com/courses/6571/ma211-linear-algebra.htm
+- http://myeducationpath.com/courses/2983/probabilistic-systems-analysis-and-applied-probability-fall-2010.htm
+- http://myeducationpath.com/courses/23445/statistics-unlocking-the-world-of-data.htm
+- http://myeducationpath.com/courses/16121/what-is-capitalism.htm
+- 
 
 ## Swayam
 
