@@ -394,8 +394,8 @@ Things to Do
 - http://myeducationpath.com/courses/16121/what-is-capitalism.htm
 - https://learn.saylor.org/course/view.php?id=28
 - https://online.stanford.edu/courses/math220-partial-differential-equations-applied-mathematics
-
-- 
+- https://legacy.saylor.org/ma221/Intro/
+- https://legacy.saylor.org/ma222/Intro/
 
 
 
