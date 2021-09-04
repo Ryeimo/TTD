@@ -9,6 +9,7 @@ Things to Do
 - World Quant University Entrance Exam
 - Introduction to Financial Mathematics: Concepts and Computational Methodsl
 - MIT Fin Math OCW
+- Introductory Statistics with Randomization and Simulation - First Edition
 
 ## Quarter
 
