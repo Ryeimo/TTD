@@ -10,6 +10,25 @@ Things to Do
 - Introduction to Financial Mathematics: Concepts and Computational Methodsl
 - MIT Fin Math OCW
 - Introductory Statistics with Randomization and Simulation - First Edition
+- https://aimath.org/textbooks/approved-textbooks/corral/
+- https://aimath.org/textbooks/approved-textbooks/lebl-de/
+- https://aimath.org/textbooks/approved-textbooks/trench-de/
+- https://aimath.org/textbooks/approved-textbooks/beezer/
+- https://aimath.org/textbooks/approved-textbooks/boyd-vandenberghe/
+- https://aimath.org/textbooks/approved-textbooks/hefferon
+- https://aimath.org/textbooks/approved-textbooks/treil
+- https://aimath.org/textbooks/approved-textbooks/hammack/
+- https://aimath.org/textbooks/approved-textbooks/fields/
+- https://aimath.org/textbooks/approved-textbooks/sundstrom/
+- https://aimath.org/textbooks/approved-textbooks/bard
+- http://aimath.org/textbooks/approved-textbooks/zimmermann
+- https://aimath.org/textbooks/approved-textbooks/brin/
+- https://aimath.org/textbooks/approved-textbooks/beck-marchesi-pixton-sabalka/
+- https://aimath.org/textbooks/approved-textbooks/diez-barr-cetinkaya-rundel
+- https://aimath.org/textbooks/approved-textbooks/vu-harrington
+- https://aimath.org/textbooks/approved-textbooks/stark
+- https://aimath.org/textbooks/approved-textbooks/lane
+- https://aimath.org/textbooks/approved-textbooks/leary-kristiansen/
 
 ## Quarter
 
