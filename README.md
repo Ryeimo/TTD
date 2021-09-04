@@ -298,6 +298,18 @@ Things to Do
 - https://www.engineer4free.com/calculus.html
 - https://www.engineer4free.com/differential-equations.html
 - https://www.engineer4free.com/project-management.html
+- http://myeducationpath.com/courses/3158/advanced-calculus-for-engineers.htm
+- http://myeducationpath.com/courses/3175/advanced-partial-differential-equations-with-applications.htm
+- http://myeducationpath.com/courses/3170/differential-analysis-ii-partial-differential-equations-and-fourier-analysis.htm
+- http://myeducationpath.com/courses/18718/essential-numerical-methods.htm
+- http://myeducationpath.com/courses/5099/integral-equations.htm
+- http://myeducationpath.com/courses/3166/introduction-to-partial-differential-equations-fall-2011.htm
+- http://myeducationpath.com/courses/3173/linear-partial-differential-equations-analysis-and-numerics.htm
+- http://myeducationpath.com/courses/7833/ma222-introduction-to-partial-differential-equations.htm
+- http://myeducationpath.com/courses/2847/numerical-methods-applied-to-chemical-engineering-fall-2006.htm
+- http://myeducationpath.com/courses/3180/numerical-methods-for-partial-differential-equations.htm
+- http://myeducationpath.com/courses/2798/numerical-methods-for-partial-differential-equations-sma-5212.htm
+- http://myeducationpath.com/courses/19285/pricing-options-with-mathematical-models.htm
 
 ## Swayam
 
