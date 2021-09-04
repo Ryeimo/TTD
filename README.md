@@ -41,6 +41,19 @@ Things to Do
 - https://www.perlego.com/book/2773866/quantitative-methods-in-derivatives-pricing-an-introduction-to-computational-finance-pdf?queryID=8f946b53a666a6f78d1b6cc91769b48d&searchIndexType=books
 - https://www.perlego.com/book/990853/modern-computational-finance-aad-and-parallel-simulations-pdf?queryID=8f946b53a666a6f78d1b6cc91769b48d&searchIndexType=books
 - https://www.perlego.com/book/1559910/finance-the-basics-pdf?queryID=8f946b53a666a6f78d1b6cc91769b48d&searchIndexType=books
+- https://www.perlego.com/book/1148916/finding-alphas-a-quantitative-approach-to-building-trading-strategies-pdf?queryID=f16928989e09f65afb851970d2cc6019&searchIndexType=books
+- https://www.perlego.com/book/994746/an-introduction-to-financial-markets-a-quantitative-approach-pdf?queryID=f16928989e09f65afb851970d2cc6019&searchIndexType=books
+- https://www.perlego.com/book/2777044/the-best-of-wilmott-1-incorporating-the-quantitative-finance-review-pdf?queryID=f16928989e09f65afb851970d2cc6019&searchIndexType=books
+- https://www.perlego.com/book/1003590/the-mathematics-of-financial-models-solving-realworld-problems-with-quantitative-methods-pdf?queryID=f16928989e09f65afb851970d2cc6019&searchIndexType=books
+- https://www.perlego.com/book/2018001/machine-learning-in-asset-pricing-pdf?queryID=f16928989e09f65afb851970d2cc6019&searchIndexType=books
+- https://www.perlego.com/book/1007536/the-volatility-surface-a-practitioners-guide-pdf?queryID=f16928989e09f65afb851970d2cc6019&searchIndexType=books
+- https://www.perlego.com/book/1599334/risk-management-and-simulation-pdf?queryID=f16928989e09f65afb851970d2cc6019&searchIndexType=books
+- https://www.perlego.com/book/734878/portfolio-risk-analysis-pdf?queryID=f16928989e09f65afb851970d2cc6019&searchIndexType=books
+- https://www.perlego.com/book/993541/machine-trading-deploying-computer-algorithms-to-conquer-the-markets-pdf?queryID=593422a747f2b184a5ebcda7a53f816c&searchIndexType=books
+- https://www.perlego.com/book/1001872/mathematics-of-the-financial-markets-financial-instruments-and-derivatives-modelling-valuation-and-risk-issues-pdf?queryID=593422a747f2b184a5ebcda7a53f816c&searchIndexType=books
+- https://www.perlego.com/book/1010054/investment-strategies-of-hedge-funds-pdf?queryID=593422a747f2b184a5ebcda7a53f816c&searchIndexType=books
+- https://www.perlego.com/book/1003957/financial-modelling-theory-implementation-and-practice-with-matlab-source-pdf?queryID=593422a747f2b184a5ebcda7a53f816c&searchIndexType=books
+
 
 ## Year
 
