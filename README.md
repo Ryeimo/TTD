@@ -254,6 +254,7 @@ Things to Do
 - khan academy physics
 - 100% khan academy
 - complexity explorer 100%
+- 100% saylor math courses
 - 
 
 ## Year
@@ -341,6 +342,7 @@ Things to Do
 - https://www.complexityexplorer.org/courses/46-random-walks
 - https://www.complexityexplorer.org/courses/56-vector-and-matrix-algebra
 - https://www.classcentral.com/course/mit-opencourseware-differential-equations-fall-2011-40963/classroom
+- https://www.mathdoubts.com/differential-equations/
 - 
 
 
