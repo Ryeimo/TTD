@@ -217,6 +217,26 @@ Things to Do
 - https://www.perlego.com/book/1014290/data-mining-and-statistics-for-decision-making-pdf?queryID=9fd3e4e5c07dfc9d16331eba2b96b899&searchIndexType=books
 - https://www.perlego.com/book/1694582/handson-simulation-modeling-with-python-develop-simulation-models-to-get-accurate-results-and-enhance-decisionmaking-processes-pdf?queryID=9fd3e4e5c07dfc9d16331eba2b96b899&searchIndexType=books
 - https://www.perlego.com/book/852035/quantitative-modelling-in-marketing-and-management-second-edition-pdf?queryID=9fd3e4e5c07dfc9d16331eba2b96b899&searchIndexType=books
+- https://www.perlego.com/book/1002971/hedge-fund-modelling-and-analysis-using-matlab-pdf?queryID=8959c12ebf9bd02abeb5d8601ad49e3d&searchIndexType=books
+- https://www.perlego.com/book/998555/risk-arbitrage-an-investors-guide-pdf?queryID=8959c12ebf9bd02abeb5d8601ad49e3d&searchIndexType=books
+- https://www.perlego.com/book/991623/nonparametric-finance-pdf?queryID=8959c12ebf9bd02abeb5d8601ad49e3d&searchIndexType=books
+- https://www.perlego.com/book/2529271/time-series-modeling-computation-and-inference-second-edition-pdf?queryID=8959c12ebf9bd02abeb5d8601ad49e3d&searchIndexType=books
+- https://www.perlego.com/book/1472955/americanstyle-derivatives-valuation-and-computation-pdf?queryID=8959c12ebf9bd02abeb5d8601ad49e3d&searchIndexType=books
+- https://www.perlego.com/book/847222/nongaussian-mertonblackscholes-theory-pdf?queryID=8959c12ebf9bd02abeb5d8601ad49e3d&searchIndexType=books
+- https://www.perlego.com/book/2788449/volatility-and-correlation-the-perfect-hedger-and-the-fox-pdf?queryID=8959c12ebf9bd02abeb5d8601ad49e3d&searchIndexType=books
+- https://www.perlego.com/book/1011233/introduction-to-imprecise-probabilities-pdf?queryID=8959c12ebf9bd02abeb5d8601ad49e3d&searchIndexType=books
+- https://www.perlego.com/book/1547698/interest-rate-modeling-theory-and-practice-second-edition-pdf?queryID=01770ebf69b56a6e23b4085ab519df34&searchIndexType=books
+- https://www.perlego.com/book/2555625/introduction-to-financial-mathematics-with-computer-applications-pdf?queryID=01770ebf69b56a6e23b4085ab519df34&searchIndexType=books
+- https://www.perlego.com/book/2193389/introduction-to-stochastic-processes-pdf?queryID=01770ebf69b56a6e23b4085ab519df34&searchIndexType=books
+- https://www.perlego.com/book/1572538/modelfree-hedging-a-martingale-optimal-transport-viewpoint-pdf?queryID=01770ebf69b56a6e23b4085ab519df34&searchIndexType=books
+- https://www.perlego.com/book/1623929/managing-information-core-management-pdf?queryID=01770ebf69b56a6e23b4085ab519df34&searchIndexType=books
+- https://www.perlego.com/book/1574805/montecarlo-methods-and-stochastic-processes-from-linear-to-nonlinear-pdf?queryID=01770ebf69b56a6e23b4085ab519df34&searchIndexType=books
+- https://www.perlego.com/book/851894/kernelbased-approximation-methods-using-matlab-pdf?queryID=01770ebf69b56a6e23b4085ab519df34&searchIndexType=books
+- https://www.perlego.com/book/845681/principles-of-infinitesinal-stochastic-financial-analysis-pdf?queryID=01770ebf69b56a6e23b4085ab519df34&searchIndexType=books
+- https://www.perlego.com/book/2194044/statistical-analysis-of-financial-data-with-examples-in-r-pdf?queryID=01770ebf69b56a6e23b4085ab519df34&searchIndexType=books
+- https://www.perlego.com/book/1666985/mathematical-interest-theory-third-edition-pdf?queryID=01770ebf69b56a6e23b4085ab519df34&searchIndexType=books
+- https://www.perlego.com/book/1576766/artificial-intelligence-with-an-introduction-to-machine-learning-second-edition-pdf?queryID=01770ebf69b56a6e23b4085ab519df34&searchIndexType=books
+- 
 
 
 ## Year
