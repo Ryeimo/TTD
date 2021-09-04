@@ -310,6 +310,11 @@ Things to Do
 - http://myeducationpath.com/courses/3180/numerical-methods-for-partial-differential-equations.htm
 - http://myeducationpath.com/courses/2798/numerical-methods-for-partial-differential-equations-sma-5212.htm
 - http://myeducationpath.com/courses/19285/pricing-options-with-mathematical-models.htm
+- http://myeducationpath.com/courses/3321/advanced-stochastic-processes.htm
+- http://myeducationpath.com/courses/15909/advanced-stochastic-processes.htm
+- http://myeducationpath.com/courses/3341/analytics-of-finance.htm
+- http://myeducationpath.com/courses/2782/principles-of-optimal-control.htm
+- http://myeducationpath.com/courses/3059/algebraic-techniques-and-semidefinite-optimization.htm
 
 ## Swayam
 
