@@ -7,6 +7,8 @@ Things to Do
 ## Year
 
 - World Quant University Entrance Exam
+- Introduction to Financial Mathematics: Concepts and Computational Methodsl
+- MIT Fin Math OCW
 
 ## Quarter
 
