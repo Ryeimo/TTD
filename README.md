@@ -29,6 +29,12 @@ Things to Do
 - https://aimath.org/textbooks/approved-textbooks/stark
 - https://aimath.org/textbooks/approved-textbooks/lane
 - https://aimath.org/textbooks/approved-textbooks/leary-kristiansen/
+- https://aimath.org/textbooks/approved-textbooks/grinstead-snell/
+- https://aimath.org/textbooks/approved-textbooks/huber/
+- https://aimath.org/textbooks/approved-textbooks/keller-trotter/
+- https://aimath.org/textbooks/approved-textbooks/bogart/
+- https://aimath.org/textbooks/approved-textbooks/bender-williamson/
+- 
 
 ## Quarter
 
