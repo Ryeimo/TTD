@@ -4,6 +4,44 @@ Things to Do
 # TTD
 Things to Do
 
+## Perlego Quantitative Finance
+
+- https://www.perlego.com/book/1006351/paul-wilmott-on-quantitative-finance-pdf?queryID=d0a96c63452e57a2ee682ce49911c396&searchIndexType=books
+- https://www.perlego.com/book/1174814/quantitative-finance-pdf?queryID=d0a96c63452e57a2ee682ce49911c396&searchIndexType=books
+- https://www.perlego.com/book/1399968/a-first-course-in-quantitative-finance-pdf?queryID=d0a96c63452e57a2ee682ce49911c396&searchIndexType=books
+- https://www.perlego.com/book/852009/an-introduction-to-quantitative-finance-a-threeprinciple-approach-pdf?queryID=d0a96c63452e57a2ee682ce49911c396&searchIndexType=books
+- https://www.perlego.com/book/1554546/introductory-mathematical-analysis-for-quantitative-finance-pdf?queryID=d0a96c63452e57a2ee682ce49911c396&searchIndexType=books
+- https://www.perlego.com/book/853515/theoretical-foundations-for-quantitative-finance-0-pdf?queryID=d0a96c63452e57a2ee682ce49911c396&searchIndexType=books
+- https://www.perlego.com/book/1611681/experiments-in-quantitative-finance-pdf?queryID=d0a96c63452e57a2ee682ce49911c396&searchIndexType=books
+- https://www.perlego.com/book/996712/quantitative-finance-for-dummies-pdf?queryID=d0a96c63452e57a2ee682ce49911c396&searchIndexType=books
+- https://www.perlego.com/book/1005943/frequently-asked-questions-in-quantitative-finance-pdf?queryID=d0a96c63452e57a2ee682ce49911c396&searchIndexType=books
+- https://www.perlego.com/book/1572107/quantitative-finance-an-objectoriented-approach-in-c-pdf?queryID=d0a96c63452e57a2ee682ce49911c396&searchIndexType=books
+- https://www.perlego.com/book/1507761/quantitative-finance-a-simulationbased-introduction-using-excel-pdf?queryID=d0a96c63452e57a2ee682ce49911c396&searchIndexType=books
+- https://www.perlego.com/book/852498/quantitative-finance-and-risk-management-a-physicists-approach-pdf?queryID=d0a96c63452e57a2ee682ce49911c396&searchIndexType=books
+- https://www.perlego.com/book/390692/advanced-quantitative-finance-with-c-pdf?queryID=d0a96c63452e57a2ee682ce49911c396&searchIndexType=books
+- https://www.perlego.com/book/2765652/paul-wilmott-introduces-quantitative-finance-pdf?queryID=d0a96c63452e57a2ee682ce49911c396&searchIndexType=books
+- https://www.perlego.com/book/2773846/quantitative-methods-for-finance-and-investments-pdf?queryID=d0a96c63452e57a2ee682ce49911c396&searchIndexType=books
+- https://www.perlego.com/book/2763680/market-risk-analysis-quantitative-methods-in-finance-pdf?queryID=d0a96c63452e57a2ee682ce49911c396&searchIndexType=books
+- https://www.perlego.com/book/1641192/quantitative-techniques-in-business-management-and-finance-a-casestudy-approach-pdf?queryID=d0a96c63452e57a2ee682ce49911c396&searchIndexType=books
+- https://www.perlego.com/book/1696268/quantitative-fund-management-pdf?queryID=d0a96c63452e57a2ee682ce49911c396&searchIndexType=books
+- https://www.perlego.com/book/1010909/quantitative-risk-management-a-practical-guide-to-financial-risk-pdf?queryID=d0a96c63452e57a2ee682ce49911c396&searchIndexType=books
+- https://www.perlego.com/book/993864/quantitative-financial-risk-management-pdf?queryID=8f946b53a666a6f78d1b6cc91769b48d&searchIndexType=books
+- https://www.perlego.com/book/996339/quantitative-momentum-a-practitioners-guide-to-building-a-momentumbased-stock-selection-system-pdf?queryID=8f946b53a666a6f78d1b6cc91769b48d&searchIndexType=books
+- https://www.perlego.com/book/993585/quantitative-financial-risk-management-theory-and-practice-pdf?queryID=8f946b53a666a6f78d1b6cc91769b48d&searchIndexType=books
+- https://www.perlego.com/book/1006107/principles-of-quantitative-development-pdf?queryID=8f946b53a666a6f78d1b6cc91769b48d&searchIndexType=books
+- https://www.perlego.com/book/2194094/algorithmic-trading-and-quantitative-strategies-pdf?queryID=8f946b53a666a6f78d1b6cc91769b48d&searchIndexType=books
+- https://www.perlego.com/book/2192962/quantitative-trading-algorithms-analytics-data-models-optimization-pdf?queryID=8f946b53a666a6f78d1b6cc91769b48d&searchIndexType=books
+- https://www.perlego.com/book/1686376/quantitative-operational-risk-models-pdf?queryID=8f946b53a666a6f78d1b6cc91769b48d&searchIndexType=books
+- https://www.perlego.com/book/2193716/quantitative-equity-portfolio-management-modern-techniques-and-applications-pdf?queryID=8f946b53a666a6f78d1b6cc91769b48d&searchIndexType=books
+- https://www.perlego.com/book/847280/quantitative-analysis-in-financial-markets-collected-papers-of-the-new-york-university-mathematical-finance-seminar-vol-iii-collected-papers-of-the-new-york-university-mathematical-finance-seminarvolume-iii-pdf?queryID=8f946b53a666a6f78d1b6cc91769b48d&searchIndexType=books
+- https://www.perlego.com/book/848817/quantitative-analysis-in-financial-markets-collected-papers-of-the-new-york-university-mathematical-finance-seminar-vol-ii-collected-papers-of-the-new-york-university-mathematical-finance-seminarvolume-ii-pdf?queryID=8f946b53a666a6f78d1b6cc91769b48d&searchIndexType=books
+- https://www.perlego.com/book/845899/quantitative-analysis-in-financial-markets-collected-papers-of-the-new-york-university-mathematical-finance-seminar-collected-papers-of-the-new-york-university-mathematical-finance-seminar-pdf?queryID=8f946b53a666a6f78d1b6cc91769b48d&searchIndexType=books
+- https://www.perlego.com/book/2704326/quantitative-trading-how-to-build-your-own-algorithmic-trading-business-pdf?queryID=8f946b53a666a6f78d1b6cc91769b48d&searchIndexType=books
+- https://www.perlego.com/book/2752258/applied-quantitative-methods-for-trading-and-investment-pdf?queryID=8f946b53a666a6f78d1b6cc91769b48d&searchIndexType=books
+- https://www.perlego.com/book/2773866/quantitative-methods-in-derivatives-pricing-an-introduction-to-computational-finance-pdf?queryID=8f946b53a666a6f78d1b6cc91769b48d&searchIndexType=books
+- https://www.perlego.com/book/990853/modern-computational-finance-aad-and-parallel-simulations-pdf?queryID=8f946b53a666a6f78d1b6cc91769b48d&searchIndexType=books
+- https://www.perlego.com/book/1559910/finance-the-basics-pdf?queryID=8f946b53a666a6f78d1b6cc91769b48d&searchIndexType=books
+
 ## Year
 
 - World Quant University Entrance Exam
