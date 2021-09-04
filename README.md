@@ -4,6 +4,11 @@ Things to Do
 # TTD
 Things to Do
 
+## References
+
+- https://academicearth.org/mathematics/
+- https://classcentral.com
+
 ## Perlego Quantitative Finance
 
 - https://www.perlego.com/book/1006351/paul-wilmott-on-quantitative-finance-pdf?queryID=d0a96c63452e57a2ee682ce49911c396&searchIndexType=books
@@ -236,7 +241,7 @@ Things to Do
 - https://www.perlego.com/book/2194044/statistical-analysis-of-financial-data-with-examples-in-r-pdf?queryID=01770ebf69b56a6e23b4085ab519df34&searchIndexType=books
 - https://www.perlego.com/book/1666985/mathematical-interest-theory-third-edition-pdf?queryID=01770ebf69b56a6e23b4085ab519df34&searchIndexType=books
 - https://www.perlego.com/book/1576766/artificial-intelligence-with-an-introduction-to-machine-learning-second-edition-pdf?queryID=01770ebf69b56a6e23b4085ab519df34&searchIndexType=books
-- 
+
 
 
 ## Decade
@@ -256,6 +261,11 @@ Things to Do
 - complexity explorer 100%
 - 100% saylor math courses
 - 100% project euler
+
+## Five Year
+
+- First Semester in Numerical Analysis with Python
+- 
 
 ## Saylor
 
