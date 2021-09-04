@@ -4,12 +4,23 @@ Things to Do
 # TTD
 Things to Do
 
+## Year
+
+- World Quant University Entrance Exam
+
 ## Quarter
+
+- Khan Stats
 
 ## Month
 
+- Khan MV Calc
+- Khan Integral Calc
+- Khan Deriv Calc
+
 ## Week
 
+- Khan DiffyQs
 - Krista King - Integrals https://www.youtube.com/watch?v=RjLkuYtxCrc&list=PLJ8OrXpbC-BMLY0W20zQrTWWDoqSeOoG3
 - KK Appl of Integrals https://www.youtube.com/watch?v=EBfxiKQLnJ4&list=PLJ8OrXpbC-BMz4irMey8DcJe_iiXgA9aI
 - KK Polar https://www.youtube.com/watch?v=RuHJr1WWC4U&list=PLJ8OrXpbC-BNjv72PRNBSrby40R6LKy6r
