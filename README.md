@@ -266,6 +266,7 @@ Things to Do
 - complexity explorer 100%
 - 100% saylor math courses
 - 100% project euler
+- 100% julia exercism
 
 ## Five Year
 
