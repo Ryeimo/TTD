@@ -456,6 +456,7 @@ Things to Do
 - https://www.mathdoubts.com/differential-equations/
 - https://tutorial.math.lamar.edu
 - https://en.wikiversity.org/wiki/Partial_differential_equations
+- https://ocw.mit.edu/resources/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/index.htm
 
 
 
