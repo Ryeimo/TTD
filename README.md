@@ -324,6 +324,10 @@ Things to Do
 ## Year
 
 - World Quant University Entrance Exam
+- https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/
+- https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010
+- https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011
+- https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010
 - Introduction to Financial Mathematics: Concepts and Computational Methodsl
 - MIT Fin Math OCW
 - Introductory Statistics with Randomization and Simulation - First Edition
