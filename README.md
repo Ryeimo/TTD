@@ -11,6 +11,7 @@ Things to Do
 - http://ocw.mit.edu/courses/ocw-scholar/
 - https://ocw.mit.edu/courses/find-by-topic/#cat=mathematics
 - https://betterexplained.com
+- nptel
 
 
 ## Perlego Quantitative Finance
