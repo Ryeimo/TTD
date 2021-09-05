@@ -292,6 +292,8 @@ Things to Do
 - https://online.stanford.edu/courses/stats116-theory-probability
 - https://online.stanford.edu/courses/soe-ycs0004-game-theory-ii-advanced-applications
 - https://online.stanford.edu/courses/soe-ycs0001-algorithms-design-and-analysis-part-2
+- https://www.udacity.com/course/differential-equations-in-action--cs222
+- https://www.udacity.com/course/linear-algebra-refresher-course--ud953
 
 ## Saylor
 
