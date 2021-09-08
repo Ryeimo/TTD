@@ -479,6 +479,7 @@ Things to Do
 - Re-Watch ODE https://www.youtube.com/watch?v=hsTfC1Wmxqc&list=PLJ8OrXpbC-BO2zEW58TpHHakh5nodn3-i
 - PDE Numerical https://m.youtube.com/watch?v=YotrBNLFen0&list=PLfkJVfYAMQ1q-Gfg72v65Au0ErUxrmlZT
 - commutant ode https://www.youtube.com/playlist?list=PLwIFHT1FWIUJYuP5y6YEM4WWrY4kEmIuS
+- dover -  partial differential equations for scientists and engineers
 
 
 
