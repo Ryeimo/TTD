@@ -485,6 +485,8 @@ Things to Do
 
 
 ## Done
+- allen carr - The Easy Way to Quit Caffeine
+- quit like a woman
 - on tyranny - tim snyder
 - dopamine nation
 - quit like a millionaire audiobook
