@@ -485,6 +485,7 @@ Things to Do
 
 
 ## Done
+- on tyranny - tim snyder
 - dopamine nation
 - quit like a millionaire audiobook
 - choose fi book
