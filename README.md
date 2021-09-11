@@ -483,6 +483,7 @@ Things to Do
 - jim simons book
 - financial fysics
 - the fama portfolio
+- your money or your life audiobook
 
 
 
