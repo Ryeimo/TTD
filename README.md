@@ -480,11 +480,14 @@ Things to Do
 - PDE Numerical https://m.youtube.com/watch?v=YotrBNLFen0&list=PLfkJVfYAMQ1q-Gfg72v65Au0ErUxrmlZT
 - commutant ode https://www.youtube.com/playlist?list=PLwIFHT1FWIUJYuP5y6YEM4WWrY4kEmIuS
 - dover -  partial differential equations for scientists and engineers
-
+- jim simons book
+- financial fysics
 
 
 
 ## Done
+- allen carr - 	Smart Phone Dumb Phone: Free Yourself from Digital Addiction
+- allen carr - lose weight now
 - allen carr - The Easy Way to Quit Caffeine
 - quit like a woman
 - on tyranny - tim snyder
