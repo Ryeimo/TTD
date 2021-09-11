@@ -482,6 +482,7 @@ Things to Do
 - dover -  partial differential equations for scientists and engineers
 - jim simons book
 - financial fysics
+- the fama portfolio
 
 
 
