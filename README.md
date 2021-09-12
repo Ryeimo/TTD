@@ -480,7 +480,6 @@ Things to Do
 - PDE Numerical https://m.youtube.com/watch?v=YotrBNLFen0&list=PLfkJVfYAMQ1q-Gfg72v65Au0ErUxrmlZT
 - commutant ode https://www.youtube.com/playlist?list=PLwIFHT1FWIUJYuP5y6YEM4WWrY4kEmIuS
 - dover -  partial differential equations for scientists and engineers
-- jim simons book
 - the fama portfolio
 - MULTIVARIABLE CALCULUS - Don Shimamoto
-- introductory statistics - openstax
+
