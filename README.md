@@ -482,3 +482,5 @@ Things to Do
 - dover -  partial differential equations for scientists and engineers
 - jim simons book
 - the fama portfolio
+- MULTIVARIABLE CALCULUS - Don Shimamoto
+- introductory statistics - openstax
