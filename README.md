@@ -481,6 +481,4 @@ Things to Do
 - commutant ode https://www.youtube.com/playlist?list=PLwIFHT1FWIUJYuP5y6YEM4WWrY4kEmIuS
 - dover -  partial differential equations for scientists and engineers
 - jim simons book
-- financial fysics
 - the fama portfolio
-- your money or your life audiobook
