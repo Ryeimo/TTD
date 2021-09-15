@@ -467,6 +467,7 @@ Things to Do
 - Free Code Camp Calc I
 - Free Code Camp Calc II
 - Free Code Camp Linear Alg
+- MULTIVARIABLE CALCULUS - Don Shimamoto
 
 
 ## Week
@@ -481,5 +482,6 @@ Things to Do
 - commutant ode https://www.youtube.com/playlist?list=PLwIFHT1FWIUJYuP5y6YEM4WWrY4kEmIuS
 - dover -  partial differential equations for scientists and engineers
 - the fama portfolio
-- MULTIVARIABLE CALCULUS - Don Shimamoto
+- stochastic calculus for finance i: the binomial pricing model
+
 
