@@ -484,6 +484,7 @@ Things to Do
 - the fama portfolio
 - stochastic calculus for finance i: the binomial asset pricing model
 - https://nextjournal.com/sosiris-de/pde-2018
+- https://www.youtube.com/watch?v=txcb3ROQBS4
 - https://www.youtube.com/watch?v=okGybBmihOE
 - https://www.youtube.com/watch?v=hsQiFP4S5RY
 - https://www.youtube.com/watch?v=pYZzbu_oGaw
