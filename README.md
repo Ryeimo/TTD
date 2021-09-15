@@ -483,5 +483,10 @@ Things to Do
 - dover -  partial differential equations for scientists and engineers
 - the fama portfolio
 - stochastic calculus for finance i: the binomial asset pricing model
-
-
+- https://nextjournal.com/sosiris-de/pde-2018
+- https://www.youtube.com/watch?v=okGybBmihOE
+- https://www.youtube.com/watch?v=hsQiFP4S5RY
+- https://www.youtube.com/watch?v=pYZzbu_oGaw
+- https://www.youtube.com/watch?v=KPEqYtEd-zY
+- https://www.youtube.com/watch?v=hKHdbfxCV44
+- https://www.youtube.com/watch?v=o1h7BUW04NI
