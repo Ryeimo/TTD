@@ -482,6 +482,6 @@ Things to Do
 - commutant ode https://www.youtube.com/playlist?list=PLwIFHT1FWIUJYuP5y6YEM4WWrY4kEmIuS
 - dover -  partial differential equations for scientists and engineers
 - the fama portfolio
-- stochastic calculus for finance i: the binomial pricing model
+- stochastic calculus for finance i: the binomial asset pricing model
 
 
