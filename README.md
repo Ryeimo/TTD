@@ -468,6 +468,7 @@ Things to Do
 - Free Code Camp Calc II
 - Free Code Camp Linear Alg
 - MULTIVARIABLE CALCULUS - Don Shimamoto
+- https://www.youtube.com/user/DarrenOngCL/playlists
 
 
 ## Week
