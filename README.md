@@ -471,6 +471,7 @@ Things to Do
 - MULTIVARIABLE CALCULUS - Don Shimamoto
 - https://www.youtube.com/user/DarrenOngCL/playlists
 - https://www.youtube.com/watch?v=06xVPLJ6U_I&list=PLwV-9DG53NDz3o_g5QS3s9QWJX2wtAYPH
+- Proo-read Holm School OER
 
 
 ## Week
