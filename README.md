@@ -472,6 +472,7 @@ Things to Do
 - https://www.youtube.com/user/DarrenOngCL/playlists
 - https://www.youtube.com/watch?v=06xVPLJ6U_I&list=PLwV-9DG53NDz3o_g5QS3s9QWJX2wtAYPH
 - Proo-read Holm School OER
+- https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/
 
 
 ## Week
@@ -496,3 +497,4 @@ Things to Do
 - https://www.youtube.com/watch?v=hKHdbfxCV44
 - https://www.youtube.com/watch?v=o1h7BUW04NI
 - PDE: https://www.youtube.com/watch?v=O3ahEHAX-KU&list=PLdgVBOaXkb9Ab7UM8sCfQWgdbzxkXTNVD
+- perlego: diffyq reading list
