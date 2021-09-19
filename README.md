@@ -239,11 +239,6 @@ Things to Do
 - https://www.youtube.com/watch?v=06xVPLJ6U_I&list=PLwV-9DG53NDz3o_g5QS3s9QWJX2wtAYPH
 - Proo-read Holm School OER
 - https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/
-
-
-## Week
-
-
 - Krista King - Integrals https://www.youtube.com/watch?v=RjLkuYtxCrc&list=PLJ8OrXpbC-BMLY0W20zQrTWWDoqSeOoG3
 - KK Appl of Integrals https://www.youtube.com/watch?v=EBfxiKQLnJ4&list=PLJ8OrXpbC-BMz4irMey8DcJe_iiXgA9aI
 - KK Polar https://www.youtube.com/watch?v=RuHJr1WWC4U&list=PLJ8OrXpbC-BNjv72PRNBSrby40R6LKy6r
@@ -251,6 +246,10 @@ Things to Do
 - Re-Watch ODE https://www.youtube.com/watch?v=hsTfC1Wmxqc&list=PLJ8OrXpbC-BO2zEW58TpHHakh5nodn3-i
 - PDE Numerical https://m.youtube.com/watch?v=YotrBNLFen0&list=PLfkJVfYAMQ1q-Gfg72v65Au0ErUxrmlZT
 - commutant ode https://www.youtube.com/playlist?list=PLwIFHT1FWIUJYuP5y6YEM4WWrY4kEmIuS
+
+
+## Week
+
 - dover -  partial differential equations for scientists and engineers
 - the fama portfolio
 - stochastic calculus for finance i: the binomial asset pricing model
