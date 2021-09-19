@@ -246,13 +246,13 @@ Things to Do
 - Re-Watch ODE https://www.youtube.com/watch?v=hsTfC1Wmxqc&list=PLJ8OrXpbC-BO2zEW58TpHHakh5nodn3-i
 - PDE Numerical https://m.youtube.com/watch?v=YotrBNLFen0&list=PLfkJVfYAMQ1q-Gfg72v65Au0ErUxrmlZT
 - commutant ode https://www.youtube.com/playlist?list=PLwIFHT1FWIUJYuP5y6YEM4WWrY4kEmIuS
+- stochastic calculus for finance i: the binomial asset pricing model
+- the fama portfolio
 
 
 ## Week
 
 - dover -  partial differential equations for scientists and engineers
-- the fama portfolio
-- stochastic calculus for finance i: the binomial asset pricing model
 - https://nextjournal.com/sosiris-de/pde-2018
 - https://www.youtube.com/watch?v=txcb3ROQBS4
 - https://www.youtube.com/watch?v=okGybBmihOE
