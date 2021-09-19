@@ -270,4 +270,4 @@ Things to Do
 - create syllabus for 1 credit hour adjunct class.
 - sign up to tutor this class in schoolhouse.world
 - syllabus for coding tutoring class in schoolhouse.world
-- 
+- create a lightboard else setup like coding train
