@@ -498,4 +498,3 @@ Things to Do
 - https://www.youtube.com/watch?v=o1h7BUW04NI
 - PDE: https://www.youtube.com/watch?v=O3ahEHAX-KU&list=PLdgVBOaXkb9Ab7UM8sCfQWgdbzxkXTNVD
 - perlego: diffyq reading list
-- Culture of Narcissism - lasch
