@@ -265,5 +265,4 @@ Things to Do
 - perlego: diffyq reading list
 - dalio - principles
 - remote inc.
-- remote (basecamp guys)
 - a world without email
