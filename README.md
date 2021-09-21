@@ -267,6 +267,3 @@ Things to Do
 - remote inc.
 - remote (basecamp guys)
 - a world without email
-- sign up to tutor this class in schoolhouse.world
-- syllabus for coding tutoring class in schoolhouse.world
-- create a lightboard else setup like coding train
