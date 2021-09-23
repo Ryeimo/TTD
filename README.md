@@ -266,3 +266,4 @@ Things to Do
 - dalio - principles
 - remote inc.
 - a world without email
+- paul wilmott introduces quantitative finance
